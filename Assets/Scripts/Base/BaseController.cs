@@ -1,3 +1,4 @@
+using Base.Interfaces;
 using UnityEngine;
 
 namespace Base
